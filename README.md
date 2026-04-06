@@ -61,7 +61,7 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 📬 Contato
 
-📧 Email Profissional: mauriciofmail@gmail.com
+📧 Email Profissional: mauriciofmail@gmail.com "\n"
 🔗 GitHub: https://github.com/mfdx-tech
 
 ---
