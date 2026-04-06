@@ -12,8 +12,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-<p align="center">👋 Olá, eu sou Maurício
+<h1 align="center">Olá, sou Maurício👋</h1>
+<p align="center"
 
 🚀 Desenvolvedor focado em automações para empresas
 
@@ -24,7 +24,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 💼 O que eu faço
 
 - 📊 Automação de planilhas para sistemas web
-- 📁 Organização automática de arquivos por cliente
+- 📁 Organização automática de arquivos por tipo
 - ⚙️ Sistemas que eliminam tarefas manuais repetitivas
 - 🤖 Automação de processos internos
 
@@ -33,6 +33,7 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 🧠 Tecnologias
 
 - Python
+- JavaScript
 - Selenium
 - OpenPyXL
 - Automação de processos
@@ -45,9 +46,9 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 Sistema que lê dados de uma planilha e preenche automaticamente em sistemas web.
 
 🔹 Organizador automático de arquivos
-Sistema que organiza documentos automaticamente por tipo e cliente.
+Sistema que organiza documentos automaticamente por tipo.
 
-🔹 (Em desenvolvimento) AutoFlow
+🔹 AutoFlow
 Sistema que detecta arquivos automaticamente e executa processos sem intervenção manual.
 
 ---
@@ -60,7 +61,7 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 📬 Contato
 
-📧 Email: mauriciofmail@gmail.com
+📧 Email Profissional: mauriciofmail@gmail.com
 🔗 GitHub: https://github.com/mfdx-tech
 
 ---
@@ -76,7 +77,7 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Tecnologias</h3>
 
 ###
 
@@ -106,7 +107,7 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas Estatiscas :</h3>
 
 ###
 
