@@ -49,7 +49,7 @@ Sistema que lê dados de uma planilha e preenche automaticamente em sistemas web
 Sistema que organiza documentos automaticamente por tipo.
 
 🔹 AutoFlow
-Sistema que detecta arquivos automaticamente e executa processos sem intervenção manual.
+Sistema que junta os dois sistemas assima, baixa o relatorio e encaminha para uma pasta de preferencia.
 
 ---
 
