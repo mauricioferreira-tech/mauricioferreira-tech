@@ -79,7 +79,6 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 <h3 align="left">🛠 Linguagens e Tecnologias</h3>
 
-###
 
 <div align="left">
   <img width="12" />
