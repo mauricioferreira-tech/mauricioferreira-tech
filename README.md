@@ -49,8 +49,7 @@ Sistema que lê dados de uma planilha e preenche automaticamente em sistemas web
 Sistema que organiza documentos automaticamente por tipo.
 
 🔹 AutoFlow
-Sistema que junta os dois sistemas assima, baixa o relatorio e encaminha para uma pasta de preferencia.
-
+Automação em Python que acessa um site, coleta dados automaticamente e gera um relatório em Excel.
 ---
 
 🎯 Objetivo
