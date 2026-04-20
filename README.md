@@ -50,7 +50,6 @@ Sistema que organiza documentos automaticamente por tipo.
 
 🔹 AutoFlow
 Automação em Python que acessa um site, coleta dados automaticamente e gera um relatório em Excel.
----
 
 🎯 Objetivo
 
