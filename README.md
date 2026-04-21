@@ -97,12 +97,3 @@ Criar soluções simples e eficientes que economizam tempo e aumentam a produtiv
 
 ###
 
-<h3 align="left">🔥   Minhas Estatiscas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mfdx-tech&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
