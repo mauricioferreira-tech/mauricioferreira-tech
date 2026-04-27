@@ -34,8 +34,9 @@ Atualmente crio sistemas que automatizam tarefas repetitivas em escritórios, pr
 
 - Python
 - TypeScript
-- Pandas
-- Os e Shutil
+- Node.Js
+- NestJs
+- PostgreSQL
 - Git
 
 ---
