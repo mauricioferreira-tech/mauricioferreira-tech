@@ -43,8 +43,8 @@ Backend Developer focado em TypeScript, APIs e automação com IA.
 
 🚀 Projetos em destaque
 
-🔹 API de autenticação com JWT
-🔹 Sistema de agendamento com banco de dados
+🔹 API de autenticação com JWT <br>
+🔹 Sistema de agendamento com banco de dados <br>
 🔹 Integração com IA para automação de respostas
 
 ---
