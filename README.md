@@ -15,8 +15,6 @@
 <h1 align="center">Olá, sou Maurício</h1>
 <p align="center"
 
-👨‍💻 Maurício Ferreira
-
 Backend Developer focado em TypeScript, APIs e automação com IA.
 
 🚀 Meu objetivo é construir sistemas que resolvem problemas reais usando backend moderno + inteligência artificial.
